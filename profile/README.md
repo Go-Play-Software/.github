@@ -1,6 +1,6 @@
-# Go-Play Software 🎮
+# Go Play! Software 🎮
 
-Welcome to **Go-Play Software** — we build software that's fun to use and built to last.
+Welcome to **Go Play! Software** — we build software that's fun to use and built to last.
 
 Most of our work currently happens in private repositories. As projects mature, we'll share more of them here.
 
