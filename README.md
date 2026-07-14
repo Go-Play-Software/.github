@@ -9,7 +9,7 @@ It can also hold default community health files (e.g., `CODE_OF_CONDUCT.md`, `CO
 ## Structure
 
 ```
-.github/
+.
 ├── profile/
 │   └── README.md        # Organization profile page
 └── README.md            # This file
